@@ -1,0 +1,5 @@
+[
+  { "Name": "Первое путешествие", "File": "save-01.json", "UpdatedAt": "2026-09-05T16:30:00" },
+  { "Name": "Перед битвой", "File": "save-02.json", "UpdatedAt": "2026-09-06T18:20:00" },
+  { "Name": "Автосохранение", "File": "autosave.json", "UpdatedAt": "2026-09-07T12:05:00" }
+]
